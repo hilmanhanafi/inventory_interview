@@ -1,4 +1,7 @@
-
+## installasi
+    1. jalankan perintah composer install
+    2. nyalakan XAMPP
+    3. kemudian ketik perintah php artisan serv
 
 ## User untuk loginnya
     email : admin@gmail
